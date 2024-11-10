@@ -1,0 +1,4 @@
+module Clibpcsclite {
+    header "Clibpcsclite.h"
+    export *
+}

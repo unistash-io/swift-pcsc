@@ -1,0 +1,4 @@
+module libpcsclite [system] {
+    link "libpcsclite"
+    export *
+}

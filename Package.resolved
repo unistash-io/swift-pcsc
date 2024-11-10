@@ -1,0 +1,33 @@
+{
+  "originHash" : "44b9a7ccdffd2add908c023c35f7b70d0b53e9bb78b9feb1561b1a7935e2c91f",
+  "pins" : [
+    {
+      "identity" : "swift-essentials",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/unistash-io/swift-essentials.git",
+      "state" : {
+        "revision" : "112b87a4f7739e61e515c8eccf936d5952f60659",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "swift-essentials-nfc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/unistash-io/swift-essentials-nfc.git",
+      "state" : {
+        "revision" : "fedfe89e71aac35eda06b9017596c78e6f80a569",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "9cb486020ebf03bfa5b5df985387a14a98744537",
+        "version" : "1.6.1"
+      }
+    }
+  ],
+  "version" : 3
+}
